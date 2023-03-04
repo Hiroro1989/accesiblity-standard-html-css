@@ -1,17 +1,22 @@
 # accesiblity-standard-html-css
 
-##Description
+## Description
+
 This is the projet to refactor the code of HTML and CSS to follow an acceibility standards and optimaze for search engines.
 
-##Instllation
+## Instllation
+
 N/A
 
-##Usage
+## Usage
+
 This website is for the marketing agency to acquire an new customer.
 
-##Credits
+## Credits
+
 N/A
 
-##License
+## License
+
 accesiblity-standard-html-css is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
