@@ -1,10 +1,10 @@
 # accesiblity-standard-html-css [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+This is the projet to refactor the code of HTML and CSS to follow an acceibility standards and optimaze for search engines.git 
+
 ## Description
 
-This is the projet to refactor the code of HTML and CSS to follow an acceibility standards and optimaze for search engines.
-
-[![mockup](./assets/images/mockup.png)](https://hiroro1989.github.io/accesiblity-standard-html-css/)]
+[![mockup](./assets/images/mockup.png)](https://hiroro1989.github.io/accesiblity-standard-html-css/)
 
 ## Instllation
 
