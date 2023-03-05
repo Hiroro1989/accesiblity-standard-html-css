@@ -1,6 +1,6 @@
 # accesiblity-standard-html-css [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The link for ![Horiseon](https://hiroro1989.github.io/accesiblity-standard-html-css/)
+The link for [Horiseon](https://hiroro1989.github.io/accesiblity-standard-html-css/)
 
 ## Description
 
@@ -18,7 +18,7 @@ This website is for the marketing agency to acquire an new customer.
 
 ## Credits
 
-![The starter Code of Xandromus's](https://github.com/coding-boot-camp/urban-octo-telegram) are used for this project.
+[The starter Code of Xandromus's](https://github.com/coding-boot-camp/urban-octo-telegram) are used for this project.
 
 ## License
 
