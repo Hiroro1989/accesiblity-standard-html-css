@@ -4,7 +4,7 @@ The link for [Horiseon](https://hiroro1989.github.io/accesiblity-standard-html-c
 
 ## Description
 
-This is the projet to refactor the code of HTML and CSS to follow an acceibility standards and optimaze for search engines.
+This project is for refactoring the code of HTML and CSS to follow an acceibility standards and optimaze for search engines.
 
 [![screenshot](./assets/images/screenshot.png)](https://hiroro1989.github.io/accesiblity-standard-html-css/)
 
