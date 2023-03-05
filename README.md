@@ -18,7 +18,7 @@ This website is for the marketing agency to acquire an new customer.
 
 ## Credits
 
-[The starter Code of Xandromus's](https://github.com/coding-boot-camp/urban-octo-telegram) are used for this project.
+[The starter Code of Xandromus](https://github.com/coding-boot-camp/urban-octo-telegram)'s are used for this project.
 
 ## License
 
